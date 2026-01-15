@@ -1,0 +1,20 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires éditeurs
+*.swp
+*.swo
+*~
+*.tmp
+
+# Logs
+*.log
+
+# Dossiers générés
+node_modules/
+dist/
+build/
+
+# Sauvegardes
+*.bak
