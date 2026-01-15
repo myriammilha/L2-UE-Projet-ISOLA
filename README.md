@@ -1,6 +1,6 @@
 # Projet : Isola – Jeu de stratégie en JavaScript - L2 UE Projet
 
-Projet universitaire réalisé en **L2 Informatique (2020–2021)** à l’Université Sorbonne Paris Nord.  
+Projet universitaire réalisé en **L2 Informatique (2020–2021)** à l’Université Sorbonne Paris Nord.
 Ce projet consiste à implémenter le jeu de stratégie combinatoire abstrait **Isola** sous forme d’une application web en **HTML / CSS / JavaScript**.
 
 ---
@@ -65,30 +65,40 @@ https://fr.wikipedia.org/wiki/Isola_(jeu)
 ## Structure du projet
 
 ```
-
-isola/
-├── index_choix_fr_en.html   # Choix de la langue
-├── index.html               # Accueil (FR)
-├── index_en.html            # Accueil (EN)
-├── page_jeux.html           # Jeu (FR)
-├── page_jeux_en.html        # Jeu (EN)
-├── notre_equipe.html        # Présentation de l’équipe
-│
-├── css/
-│   ├── style_index.css
-│   ├── flex_jeu.css
-│   ├── MonStyle.css
-│   └── style.css
-│
-├── js/
-│   ├── app.js               # Animations accueil
-│   ├── script.js            # Logique du jeu
-│   └── notre_equipe.js      # Animations équipe
-│
-├── img/                     # Images, logos, gifs
-│
-├── docs/                    # Documents du projet (rapports, CDC, planning)
-└── .gitignore
+├── docs
+│   ├── cahier_des_charges
+│   │   ├── cahier_des_charges_myriam.rtf
+│   │   └── cahier_des_charges_youssef.docx
+│   ├── planning_repartition
+│   │   ├── description_du_projet.docx
+│   │   ├── repartition.txt
+│   │   └── retroplanning_VF.pdf
+│   ├── rapports
+│   │   ├── rapport_groupe.odt
+│   │   ├── Rapport_Myriam.docx
+│   │   └── Rapport_Myriam.pdf
+│   └── sujet_du_projet
+│       └── proj_2021.pdf
+├── README.md
+├── .gitignore
+└── src
+    ├── css
+    │   ├── flex_jeu.css
+    │   ├── MonStyle.css
+    │   ├── style.css
+    │   └── style_index.css
+    ├── img			# Images, logos, gifs
+    │   ├── ...
+    ├── index_choix_fr_en.html
+    ├── index_en.html
+    ├── index.html
+    ├── js
+    │   ├── app.js		# Animations accueil
+    │   ├── notre_equipe.js	# Animations équipe
+    │   └── script.js		# Logique du jeu
+    ├── notre_equipe.html
+    ├── page_jeux_en.html
+    └── page_jeux.html
 
 ```
 
