@@ -1,0 +1,17 @@
+Description du projet
+https://fr.wikipedia.org/wiki/Isola_(jeu)
+
+Répartition des rôles (1/2p)
+
+Dès la première réunion, nous avons fixé un produit minimum viable (MVP). C’est-à-dire que deux personnes en locales puissent bouger les pions et bloquer les cases sans forcément respecter les déplacements sur les cases voisines. Nous avions réparti les taches en petits objectifs hebdomadaires. Et les taches étaient attribuer à 3 sous-groupes de deux, deux et trois personnes. Nous avions fait une spécification détaillée de chaque tache (recherche, solutions exploitables, etc.) et elles étaient attribué en fonctions des compétences de chacun.  
+Organisation du travail au sein du groupe
+
+Nous avions désigné une personne, Lynda, pour organiser les réunions, rédiger les comptes-rendus de chaque réunion. N’ayant jamais coder en javascript, Youssef, ayant des connaissances, nous a initier et donner les bases du javascript. Chaque semaine le travail était réalisé en sous-groupe et en fin de semaine, une mise en commun avait lieu et on réglait, tous ensemble, les problèmes rencontrés au cours de la semaine par les sous-groupes et de nouveaux objectifs étaient attribués aux groupes.
+
+Listing des difficultés principales rencontrées par le groupe
+
+	Trouver un créneau qui convient à tout le monde car certains devaient travailler.
+	Apprentissage du HTML/CSS/JAVASCRIPT.
+	Mauvaise structure du dessin du plateau, le plateau était dessiné dans la partie HTML ce qui nous bloquait pour la suite de nos réalisations. On a dû changer toute la structure de notre programme.
+	Les pages n’étaient pas responsives, elles ne s’adaptaient pas à tous les écrans.
+	Synchronisation de l’espace de travail.
